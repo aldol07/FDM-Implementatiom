@@ -10,9 +10,8 @@ This project demonstrates the Fourier Decomposition Method (FDM) for analyzing E
 FDM-EEG-Analysis/
 |-- data/
 |   |-- synthetic_eeg_dataset.csv  # EEG dataset
-|-- src/
-|   |-- fdm.py                     # FDM implementation
-|   |-- main.py                    # Main script for processing
+|   |-- fdm implementation.ipynb                     # FDM implementation
+
 |-- outputs/
 |   |-- eeg_subbands.csv           # Output sub-band data
 |-- README.md                      # Project documentation
